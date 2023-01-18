@@ -18,7 +18,7 @@
 - note.comの目次を右端に表示するChrome拡張
 - [note toc - Chrome ウェブストア](https://chrome.google.com/webstore/detail/note-toc/dddpojfjpcidbebhjijlchdkfmegoidg?hl=ja)
 
-
+![image-20220130222521595](https://github.com/nigimitama/note-toc/raw/main/images/image-20220130222521595.png)
 
 ## Others
 
