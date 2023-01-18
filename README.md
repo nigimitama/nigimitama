@@ -11,7 +11,7 @@
 - 開いているページへのリンクを任意のフォーマット（markdown, html等）で生成するChrome拡張
 - [Link Generator - Chrome Web Store](https://chrome.google.com/webstore/detail/link-generator/dcepleilgmacpdjlcbgjaddnoejognkc)
 
-<img src="https://github.com/nigimitama/link-generator/raw/main/images/image-20210228191309904.png" width="50%">
+<img src="https://github.com/nigimitama/link-generator/raw/main/images/image-20210228191309904.png" width="40%">
 
 ### [note-toc](https://github.com/nigimitama/note-toc)
 
@@ -26,7 +26,7 @@
 
 電子書籍の自作のための画像処理を行うGUIアプリ
 
-<img src="https://raw.githubusercontent.com/nigimitama/image-editor-for-ebook/master/README.assets/image-20230107154633566.png" width="50%">
+<img src="https://raw.githubusercontent.com/nigimitama/image-editor-for-ebook/master/README.assets/image-20230107154633566.png" width="40%">
 
 
 ### [ksj](https://github.com/nigimitama/ksj)
