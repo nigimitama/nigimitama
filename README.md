@@ -24,7 +24,7 @@
   <img src="https://github.com/nigimitama/note-toc/raw/main/images/image-20220130222521595.png" width="50%">
 </a>
 
-## Others
+## Desktop Apps
 
 ### [image-editor-for-ebook](https://github.com/nigimitama/image-editor-for-ebook)
 
@@ -46,6 +46,9 @@ PCに接続された全てのディスプレイの輝度を簡単にコントロ
   <img src="images/dimmer.png" width="50%">
 </a>
 
+
+
+## Others
 
 ### [ksj](https://github.com/nigimitama/ksj)
 
