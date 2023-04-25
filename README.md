@@ -35,6 +35,18 @@
 </a>
 
 
+
+### [dimmer](https://github.com/nigimitama/dimmer)
+
+PCに接続された全てのディスプレイの輝度を簡単にコントロールするアプリ。
+
+朝になったら自動的に明るく、夜になったら自動的に暗くなるようにスケジューリングしたりできる。
+
+<a href="https://github.com/nigimitama/dimmer">
+  <img src="images/dimmer.png" width="50%">
+</a>
+
+
 ### [ksj](https://github.com/nigimitama/ksj)
 
 国土数値情報ダウンロードサービスのAPIを簡単に使えるようにするpythonパッケージ
