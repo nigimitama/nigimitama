@@ -1,4 +1,4 @@
-
+[![mitama's GitHub stats](https://github-readme-stats.vercel.app/api?username=nigimitama)](https://github.com/anuraghazra/github-readme-stats)
 
 # 作ったもの
 
@@ -50,6 +50,15 @@ PCに接続された全てのディスプレイの輝度を簡単にコントロ
 
 ## Others
 
+### [michihito-ando/econome_ml_with_R](https://github.com/michihito-ando/econome_ml_with_R)（共同執筆）
+
+- 計量経済学と機械学習をRで動かしながら学ぶ教材
+
+<a href="https://michihito-ando.github.io/econome_ml_with_R/">
+  <img src="images/econome_ml_with_R.png" width="40%">
+</a>
+
+
 ### [ksj](https://github.com/nigimitama/ksj)
 
 国土数値情報ダウンロードサービスのAPIを簡単に使えるようにするpythonパッケージ
@@ -60,10 +69,3 @@ PCに接続された全てのディスプレイの輝度を簡単にコントロ
   <img src="images/ksj-example.png" width="40%">
 </a>
 
-### [michihito-ando/econome_ml_with_R](https://github.com/michihito-ando/econome_ml_with_R)（共同執筆）
-
-- 計量経済学と機械学習をRで動かしながら学ぶ教材
-
-<a href="https://michihito-ando.github.io/econome_ml_with_R/">
-  <img src="images/econome_ml_with_R.png" width="40%">
-</a>
