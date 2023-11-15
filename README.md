@@ -5,8 +5,9 @@
 ### OSS
 
 - [microsoft/LightGBM](https://github.com/microsoft/LightGBM)
-- [stan-dev/pystan](https://github.com/stan-dev/pystan)
 - [dmlc/xgboost](https://github.com/dmlc/xgboost)
+- [stan-dev/pystan](https://github.com/stan-dev/pystan)
+- [Georgy Meshcheryakov/semopy](https://gitlab.com/georgy.m/semopy/-/tree/dev)
 
 ### Others
 
