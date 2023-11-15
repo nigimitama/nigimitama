@@ -1,5 +1,17 @@
 [![mitama's GitHub stats](https://github-readme-stats.vercel.app/api?username=nigimitama)](https://github.com/anuraghazra/github-readme-stats)
 
+# Contributions
+
+### OSS
+
+- [microsoft/LightGBM](https://github.com/microsoft/LightGBM)
+- [stan-dev/pystan](https://github.com/stan-dev/pystan)
+- [dmlc/xgboost](https://github.com/dmlc/xgboost)
+
+### Others
+
+- [michihito-ando/econome_ml_with_R](https://github.com/michihito-ando/econome_ml_with_R)
+
 # 作ったもの
 
 自分用に作った、ちょっとしたアプリ等をPublicリポジトリにしています。
@@ -17,7 +29,7 @@
 
 ### [note-toc](https://github.com/nigimitama/note-toc)
 
-- note.comの目次を右端に表示するChrome拡張
+- note.comにて記事の目次を右端に固定表示するChrome拡張
 - [note toc - Chrome ウェブストア](https://chrome.google.com/webstore/detail/note-toc/dddpojfjpcidbebhjijlchdkfmegoidg?hl=ja)
 
 <a href="https://chrome.google.com/webstore/detail/note-toc/dddpojfjpcidbebhjijlchdkfmegoidg?hl=ja">
@@ -28,7 +40,7 @@
 
 ### [image-editor-for-ebook](https://github.com/nigimitama/image-editor-for-ebook)
 
-電子書籍の自作のための画像処理を行うGUIアプリ
+電子書籍の自作のためのシンプルな画像処理を行うGUIアプリ
 
 <a href="https://github.com/nigimitama/image-editor-for-ebook">
   <img src="https://raw.githubusercontent.com/nigimitama/image-editor-for-ebook/master/README.assets/image-20230107154633566.png" width="40%">
