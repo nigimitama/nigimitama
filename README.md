@@ -48,15 +48,23 @@
 </a>
 
 
+### [searchable-pdf-maker](https://github.com/nigimitama/searchable-pdf-maker)
 
-### [dimmer](https://github.com/nigimitama/dimmer)
+電子書籍の自作のためのpdf変換器。
+複数の画像を1つのPDFにまとめ、その際にOCRをかけて検索可能なPDFにする。
 
-PCに接続された全てのディスプレイの輝度を簡単にコントロールするアプリ。
+<a href="https://github.com/nigimitama/searchable-pdf-maker">
+  <img src="images/searchable-pdf-maker.png" width="60%">
+</a>
+
+### [Dimmer](https://github.com/nigimitama/dimmer)
+
+PCに接続された全てのディスプレイの輝度を一元管理するアプリ。
 
 朝になったら自動的に明るく、夜になったら自動的に暗くなるようにスケジューリングしたりできる。
 
 <a href="https://github.com/nigimitama/dimmer">
-  <img src="images/dimmer.png" width="50%">
+  <img src="images/dimmer.png" width="40%">
 </a>
 
 
@@ -81,4 +89,12 @@ PCに接続された全てのディスプレイの輝度を簡単にコントロ
 <a href="https://github.com/nigimitama/ksj">
   <img src="images/ksj-example.png" width="40%">
 </a>
+
+
+
+## Web App
+
+- [Base64 Image Encoder](https://nigimitama.github.io/base64-image-encoder/)（[repository](https://github.com/nigimitama/base64-image-encoder)）：画像をbase64エンコードする
+- [Space Remover](https://nigimitama.github.io/space-remover/index.html)（[repository](https://github.com/nigimitama/space-remover)）：文字列中のスペースを消す
+- [Amazon URL Shortener](https://nigimitama.github.io/amazon-url-shortener/)（[repository](https://github.com/nigimitama/amazon-url-shortener)）：AmazonのURLを短縮する
 
