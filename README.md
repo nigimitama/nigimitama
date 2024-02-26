@@ -34,8 +34,18 @@
 - [note toc - Chrome ウェブストア](https://chrome.google.com/webstore/detail/note-toc/dddpojfjpcidbebhjijlchdkfmegoidg?hl=ja)
 
 <a href="https://chrome.google.com/webstore/detail/note-toc/dddpojfjpcidbebhjijlchdkfmegoidg?hl=ja">
-  <img src="https://github.com/nigimitama/note-toc/raw/main/images/image-20220130222521595.png" width="50%">
+  <img src="https://github.com/nigimitama/note-toc/raw/main/images/image-20220130222521595.png" width="70%">
 </a>
+
+### [Book Searcher](https://github.com/nigimitama/book-searcher)
+
+- 書籍情報を検索するためのChrome拡張
+- [Book Searcher - Chrome ウェブストア](https://chromewebstore.google.com/detail/book-searcher/phkdhohknijcjmbpdcginagjiahakcee)
+
+<a href="https://chromewebstore.google.com/detail/book-searcher/phkdhohknijcjmbpdcginagjiahakcee">
+  <img src="https://github.com/nigimitama/book-searcher/raw/main/images/screenshot-big.png" width="70%">
+</a>
+
 
 ## Desktop Apps
 
