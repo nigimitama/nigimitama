@@ -25,7 +25,7 @@
 - [Link Generator - Chrome Web Store](https://chrome.google.com/webstore/detail/link-generator/dcepleilgmacpdjlcbgjaddnoejognkc)
 
 <a href="https://chrome.google.com/webstore/detail/link-generator/dcepleilgmacpdjlcbgjaddnoejognkc">
-  <img src="https://github.com/nigimitama/link-generator/raw/main/images/image-20210228191309904.png" width="40%">
+  <img src="https://github.com/nigimitama/link-generator/raw/main/images/image-20210228191309904.png" width="50%">
 </a>
 
 ### [note-toc](https://github.com/nigimitama/note-toc)
@@ -34,7 +34,7 @@
 - [note toc - Chrome ウェブストア](https://chrome.google.com/webstore/detail/note-toc/dddpojfjpcidbebhjijlchdkfmegoidg?hl=ja)
 
 <a href="https://chrome.google.com/webstore/detail/note-toc/dddpojfjpcidbebhjijlchdkfmegoidg?hl=ja">
-  <img src="https://github.com/nigimitama/note-toc/raw/main/images/image-20220130222521595.png" width="70%">
+  <img src="https://github.com/nigimitama/note-toc/raw/main/images/image-20220130222521595.png" width="80%">
 </a>
 
 ### [Book Searcher](https://github.com/nigimitama/book-searcher)
@@ -43,7 +43,7 @@
 - [Book Searcher - Chrome ウェブストア](https://chromewebstore.google.com/detail/book-searcher/phkdhohknijcjmbpdcginagjiahakcee)
 
 <a href="https://chromewebstore.google.com/detail/book-searcher/phkdhohknijcjmbpdcginagjiahakcee">
-  <img src="https://github.com/nigimitama/book-searcher/raw/main/images/screenshot-big.png" width="70%">
+  <img src="https://github.com/nigimitama/book-searcher/raw/main/images/screenshot-big.png" width="80%">
 </a>
 
 
@@ -54,7 +54,7 @@
 電子書籍の自作のためのシンプルな画像処理を行うGUIアプリ
 
 <a href="https://github.com/nigimitama/image-editor-for-ebook">
-  <img src="https://raw.githubusercontent.com/nigimitama/image-editor-for-ebook/master/README.assets/image-20230107154633566.png" width="40%">
+  <img src="https://raw.githubusercontent.com/nigimitama/image-editor-for-ebook/master/README.assets/image-20230107154633566.png" width="50%">
 </a>
 
 
@@ -64,7 +64,7 @@
 複数の画像を1つのPDFにまとめ、その際にOCRをかけて検索可能なPDFにする。
 
 <a href="https://github.com/nigimitama/searchable-pdf-maker">
-  <img src="images/searchable-pdf-maker.png" width="60%">
+  <img src="images/searchable-pdf-maker.png" width="70%">
 </a>
 
 ### [Dimmer](https://github.com/nigimitama/dimmer)
@@ -74,7 +74,7 @@ PCに接続された全てのディスプレイの輝度を一元管理するア
 朝になったら自動的に明るく、夜になったら自動的に暗くなるようにスケジューリングしたりできる。
 
 <a href="https://github.com/nigimitama/dimmer">
-  <img src="images/dimmer.png" width="40%">
+  <img src="images/dimmer.png" width="50%">
 </a>
 
 
@@ -86,7 +86,7 @@ PCに接続された全てのディスプレイの輝度を一元管理するア
 - 計量経済学と機械学習をRで動かしながら学ぶ教材
 
 <a href="https://michihito-ando.github.io/econome_ml_with_R/">
-  <img src="images/econome_ml_with_R.png" width="40%">
+  <img src="images/econome_ml_with_R.png" width="50%">
 </a>
 
 
@@ -97,7 +97,7 @@ PCに接続された全てのディスプレイの輝度を一元管理するア
 （※APIのサービス終了につき現在は使用できません）
 
 <a href="https://github.com/nigimitama/ksj">
-  <img src="images/ksj-example.png" width="40%">
+  <img src="images/ksj-example.png" width="50%">
 </a>
 
 
