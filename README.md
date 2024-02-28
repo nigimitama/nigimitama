@@ -43,7 +43,7 @@
 - [Book Searcher - Chrome ウェブストア](https://chromewebstore.google.com/detail/book-searcher/phkdhohknijcjmbpdcginagjiahakcee)
 
 <a href="https://chromewebstore.google.com/detail/book-searcher/phkdhohknijcjmbpdcginagjiahakcee">
-  <img src="https://github.com/nigimitama/book-searcher/raw/main/images/screenshot-big.png" width="80%">
+  <img src="https://github.com/nigimitama/book-searcher/raw/main/docs/screenshot-640x400.png" width="80%">
 </a>
 
 
