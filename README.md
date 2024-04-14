@@ -104,7 +104,4 @@ PCに接続された全てのディスプレイの輝度を一元管理するア
 
 ## Web App
 
-- [Base64 Image Encoder](https://nigimitama.github.io/base64-image-encoder/)（[repository](https://github.com/nigimitama/base64-image-encoder)）：画像をbase64エンコードする
-- [Space Remover](https://nigimitama.github.io/space-remover/index.html)（[repository](https://github.com/nigimitama/space-remover)）：文字列中のスペースを消す
-- [Amazon URL Shortener](https://nigimitama.github.io/amazon-url-shortener/)（[repository](https://github.com/nigimitama/amazon-url-shortener)）：AmazonのURLを短縮する
-
+- [tiny-tools](https://github.com/nigimitama/tiny-tools)：画像のbase64エンコーディングやURLの短縮など、ちょっとした便利ツールをまとめたもの
