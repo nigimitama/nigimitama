@@ -79,6 +79,16 @@ PCに接続された全てのディスプレイの輝度を一元管理するア
 
 
 
+## Web App
+
+### [tiny-tools.net](https://tiny-tools.net/)
+
+![](images/tiny-tools.png)
+
+- 画像のbase64エンコーディングやURLの短縮など、ちょっとした便利ツールをまとめたサイト
+
+
+
 ## Others
 
 ### [michihito-ando/econome_ml_with_R](https://github.com/michihito-ando/econome_ml_with_R)（共同執筆）
@@ -101,7 +111,3 @@ PCに接続された全てのディスプレイの輝度を一元管理するア
 </a>
 
 
-
-## Web App
-
-- [tiny-tools](https://github.com/nigimitama/tiny-tools)：画像のbase64エンコーディングやURLの短縮など、ちょっとした便利ツールをまとめたもの
