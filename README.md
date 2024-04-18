@@ -46,6 +46,15 @@
   <img src="https://github.com/nigimitama/book-searcher/raw/main/docs/screenshot-640x400.png" width="80%">
 </a>
 
+### [Tab Image Downloader](https://github.com/nigimitama/tab-image-downloader)
+
+- タブで開いている画像たちを一括ダウンロードする拡張機能
+- [Download Image in Tabs - Chrome ウェブストア](https://chromewebstore.google.com/detail/download-image-in-tabs/lgihlkigabibkibnobiigjnpibepoljo)
+
+<a href="https://chromewebstore.google.com/detail/download-image-in-tabs/lgihlkigabibkibnobiigjnpibepoljo">
+  <img src="images/tab-image-downloader.png" width="80%">
+</a>
+
 
 ## Desktop Apps
 
@@ -109,5 +118,4 @@ PCに接続された全てのディスプレイの輝度を一元管理するア
 <a href="https://github.com/nigimitama/ksj">
   <img src="images/ksj-example.png" width="50%">
 </a>
-
 
